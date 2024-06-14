@@ -1,0 +1,29 @@
+
+h1,h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-decoration:wavy;
+    
+}
+h2{ 
+    text-decoration:underline;
+
+
+}
+.header{
+    text-align:center;
+
+}
+.mainbody{
+    text-align: left;
+    color: black
+}
+
+.footer{ 
+    text-align: right;
+}
+
+body{ 
+    
+    background-color: tan;
+}
